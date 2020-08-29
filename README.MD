@@ -1,5 +1,5 @@
 <h1 align="center">NAVE.RS</p>
-
+<p align="center"><img src="https://build.appcenter.ms/v0.1/apps/63b28a6d-0c79-41c2-bef8-ca829c1ccbc9/branches/master/badge"/></p>
 #### ⚡️ TECHNOLOGIES
 
 ---
