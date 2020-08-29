@@ -1,4 +1,4 @@
-<p align="center">NAVE.RS</p>
+<h1 align="center">NAVE.RS</p>
 
 #### ⚡️ TECHNOLOGIES
 
